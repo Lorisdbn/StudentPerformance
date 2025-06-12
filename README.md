@@ -1,5 +1,8 @@
 # StudentPerformance
 
+![Student performance diagram](image.jpg)
+
+
 In today's fast-paced and competitive educational environment, understanding the factors that influence student success is more important than ever. 
 Just like the transport system in a bustling city like London must adapt to serve its residents, schools and educators must adapt to meet the needs of students. 
 In this project, we will take a deep dive into a dataset containing rich details about various aspects of student life, such as hours studied, sleep patterns, attendance, and more, to uncover what truly impacts exam performance.
