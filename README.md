@@ -1,6 +1,6 @@
 # StudentPerformance
 
-![Student performance diagram](image.jpg)
+![Student performance diagram](image.jpeg)
 
 
 In today's fast-paced and competitive educational environment, understanding the factors that influence student success is more important than ever. 
